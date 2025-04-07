@@ -1,1 +1,2 @@
 # js-frelancerRates
+This practice is intended to help me familiarize myself with the JavaScript methods, arithmetic operators, and effective ways to use returned values that are block-scoped within one function and made accessible in another.
